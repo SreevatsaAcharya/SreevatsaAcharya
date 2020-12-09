@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Sreevatsa Acharya,
+
+Aspiring Software Engineer with an interest in web and mobile application development. 
+
+### Tech Stack 🧱
+
+MERN. AWS. React Native.
+
+Looking forward to try out GraphQL and firebase. 
 
 <!--
 **SreevatsaAcharya/SreevatsaAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
